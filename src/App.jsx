@@ -6,7 +6,7 @@ function Display() {
 
   return(
     <div className='displayBox'>
-          <div className='app_title'>Cameroonian recipe finder</div>
+          <div className='app-title'>Cameroonian recipe finder</div>
           <RecipeSearchBar />
     </div>
   )
